@@ -3,6 +3,7 @@
 
 int main(int argc, char **argv){
 	printf ("Treysen Craig/n");
+	printf ("Electrical Engineering/n");
 	
-	return(0);
+	r eturn(0);
 	}
