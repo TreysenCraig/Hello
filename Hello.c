@@ -4,6 +4,8 @@
 int main(int argc, char **argv){
 	printf ("Treysen Craig/n");
 	printf ("Electrical Engineering/n");
-	
-	r eturn(0);
+	printf ("Sam Yunker/n");
+	printf("Electrical Engineering/n");
+
+	return(0);
 	}
